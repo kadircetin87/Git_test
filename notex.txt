@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Das ist der Master-Branch Inhalt.
+=======
+Burası test dalından gelen yazı
+
+>>>>>>> test-dali
