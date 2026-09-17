@@ -1,2 +1,1 @@
-Burası test dalından gelen yazı
-
+Das ist der Master-Branch Inhalt.
