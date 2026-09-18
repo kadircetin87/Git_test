@@ -2,7 +2,10 @@
 
 ### Jr Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kadircetin87&label=Profile views&color=0e75b6&style=flat" alt="kadircetin87" /> </p>
+<p align="left">
+  <img src="https://giphy.com/gifs/FabBuilder-fabbuilder-MZEIaQ799hT1VXMqz8" width="300" alt="Kadir Dev"/>
+</p>
+
 
 - 🔭 I'm currently working on **HTML,CSS,GİT,GİTHUB **
 
