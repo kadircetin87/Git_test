@@ -2,11 +2,6 @@
 
 ### Jr Developer
 
-<p align="left">
-  <img src="https://giphy.com/gifs/FabBuilder-fabbuilder-MZEIaQ799hT1VXMqz8" width="300" alt="Kadir Dev"/>
-</p>
-
-
 - 🔭 I'm currently working on **HTML,CSS,GİT,GİTHUB **
 
 - 🌱 I'm currently learning **HTML,CSS,GİT,GİTHUB 
