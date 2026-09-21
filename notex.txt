@@ -1,1 +1,2 @@
-Das ist der Master-Branch inhalt
+Das ist der Master-Branch Inhalt.
+
